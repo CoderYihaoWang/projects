@@ -12,7 +12,7 @@ We learn by creating. So, alongside my journey of learning software engineering,
 
 - **[Div](https://github.com/CoderYihaoWang/div)** Div is a turing-complete functional programming language. It allows you write programs directly using HTML tags. The interpreter, which is just an inserted `<script>` link, will parse all the tags on the page, and treat them as language structures, and finally evaluate them to values.
 
-- **[WA2](https://github.com/CoderYihaoWang/wa2)** WA2 is a command-line tool that helps you learn about AWS services. It was built with Node.js.
+- **[WA2](https://github.com/CoderYihaoWang/wa2)** WA2 is a command-line tool that helps you learn about AWS services. It was built with Node.js and published to npm.
 
 - **[KeyPoint](https://github.com/CoderYihaoWang/keypoint)** This was the group final project for my Post-Graduate Certificate in IT program. It is blog website built with Java (JSP), MariaDB, JavaScript and Bootstrap.
 
