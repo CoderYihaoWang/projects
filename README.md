@@ -2,6 +2,12 @@
 
 We learn by creating. So, alongside my journey of learning software engineering, I have made some interesting projects which I am proud of. Here is a list:
 
+- **Sorta** (_This project is work in progress_) A language agnostic visualization tool that animates sorting algorithms.
+    
+    - **Sorta** (WIP): the frontend, creates animations of sorting algorithms by steps retrieved from backend API.
+
+    - **[Sorta.Net](https://github.com/CoderYihaoWang/sorta.net)** (Done) The C# implementation of the backend API. It generates steps that represent the operations during sorting algorithms, and sends these to the frontend for visualization.
+
 - **[Gomoku](https://github.com/CoderYihaoWang/gomoku)** A Gomoku game built with Golang. It is a command-line game, yet it looks pretty. It uses WebSocket for real-time gaming, and supports rooms and chatting.
 
 - **[GitClock](https://github.com/CoderYihaoWang/gitclock)** An app that shows your Github clock type by analyzing your commit history. It was built with React and TypeScript and deployed on [GitHub Pages](https://coderyihaowang.github.io/gitclock/).
