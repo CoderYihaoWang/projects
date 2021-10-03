@@ -2,6 +2,9 @@
 
 We learn by creating. So, alongside my journey of learning software engineering, I have made some interesting projects which I am proud of. Here is a list:
 
+- **[The Most Dangerous Writing App Extension](https://github.com/CoderYihaoWang/the-most-dangerous-writing-app-extension)** The vscode extension version of [the Most Dangerous Writing App](https://github.com/maebert/themostdangerouswritingapp).
+It eliminates everything you write if you stop typing for 5 seconds. You can install it from [Vscode Extensions Marketplace](https://github.com/CoderYihaoWang/the-most-dangerous-writing-app-extension).
+
 - **Sorta** (_This project is work in progress_) A language agnostic visualization tool that animates sorting algorithms.
     
     - **Sorta** (WIP): the frontend, creates animations of sorting algorithms by steps retrieved from backend API.
